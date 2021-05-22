@@ -1,7 +1,9 @@
 #img1 {
     max-height: 50px;
 }
-
+#img2 {
+    margin-left: 630px;
+}
 body {
     background-image: url('https://raw.githubusercontent.com/divwhj190/St.-Xavier-s-School/main/rm301-nunny-07.jpg');
 }
